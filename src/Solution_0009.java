@@ -3,7 +3,7 @@
  * Difficulty : Easy
  */
 
-public class Solution_09 {
+public class Solution_0009 {
     public boolean isPalindrome(int x) {
         int sum = 0;
         int temp = x;
