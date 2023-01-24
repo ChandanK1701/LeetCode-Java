@@ -3,7 +3,7 @@
  * Difficulty : Medium
  */
 
-public class Solution_08 {
+public class Solution_0008 {
     public int myAtoi(String s) {
         if(s == null) {
             return 0;
