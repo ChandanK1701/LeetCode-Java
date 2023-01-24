@@ -3,7 +3,7 @@
  * Difficulty : Medium
  */
 
-public class Solution_07 {
+public class Solution_0007 {
     public int reverse(int x) {
         long res = 0;
         while(x != 0) {
