@@ -3,7 +3,7 @@
  * Difficulty : Easy
  */
 
-public class Solution_13 {
+public class Solution_0013 {
     public int romanToInt(String s) {
         int res = 0;
         for(int i=0; i<s.length(); i++) {
