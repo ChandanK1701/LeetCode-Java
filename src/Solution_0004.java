@@ -3,7 +3,7 @@
  * Difficulty : Hard
  */
 
-public class Solution_04 {
+public class Solution_0004 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int nums3Size = nums1.length + nums2.length;
         int nums3[] = new int[nums3Size];
