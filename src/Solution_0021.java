@@ -13,7 +13,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution__0021 {
+class Solution_0021 {
     public ListNode mergeTwoLists(ListNode head1, ListNode head2) {
         if(head1 == null) {
             return head2;
