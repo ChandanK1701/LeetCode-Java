@@ -1,6 +1,6 @@
 /**
  * 0100. Same Tree
- * Difficulty : Medium
+ * Difficulty : Easy
  */
 /*------------------------------------------*/
 /**
